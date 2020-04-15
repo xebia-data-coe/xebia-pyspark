@@ -7,9 +7,9 @@
 
 ---
 ### Jupyter Notebooks
-- Data Exploration.ipynb
+- **Data Exploration.ipynb**
   Contains the code for exploratory data analysis.
-- Model Pipeline.ipynb
+- **Model Pipeline.ipynb**
   Contains the code for data preprocessing and model poipeline.
 
 
