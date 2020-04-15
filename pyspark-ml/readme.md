@@ -1,6 +1,6 @@
 ### Prerequisites
-Python 3.7.0
-Spark 2.4.0
+- Python 3.7.0
+- Spark 2.4.0
 ---
 ### Dependency requirements
 
