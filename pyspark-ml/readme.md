@@ -1,4 +1,4 @@
-## Pyspark for Machine Learning
+## Pyspark for Machine Learning (Spark MLLib + MLflow)
 ---
 ### Prerequisites
 - Python 3.7.0
